@@ -1,5 +1,5 @@
 <a name="top"></a>
-<h1 align="center">🎬 MERN Netflix Clone — By Nishad Sharma</h1>
+<h1 align="center">🎬 Netflix Clone — By Nishad</h1>
 
 ![Demo App](./preview/home-screen.png 'Preview')
 
@@ -167,16 +167,8 @@ For macOS/Linux
 
 📬 Contact
 
-👨‍💻 Author: Nishad Sharma
-📧 Email: your.email@example.com
-🔗 Portfolio: [Your Portfolio Link]
-💼 LinkedIn: [Your LinkedIn Profile]
+👨‍💻 Author: Nishad
+📧 Email: nishadsharma01@gmail.com
+🔗 Portfolio: https://nishadsharma-io-dev.pages.dev/
+💼 LinkedIn: https://www.linkedin.com/in/nishad-sharma/
 🌐 GitHub: https://github.com/NishadSharma
-
-⬆ Back to top
-
-
----
-
-If you want, I can also make you a **highly visual GitHub README** version of this with **animated GIF previews, custom badges, and a dark Netflix-style header banner** so it instantly stands out to recruiters browsing your repo.  
-That would make this look **premium and portfolio-ready**.
